@@ -58,7 +58,3 @@ Por fim nesta última página temos o checklist da declaração. O objetivo é a
 
 <img width="1120" height="659" alt="Picture_7_LionApp" src="https://github.com/user-attachments/assets/22e6607c-9194-4b78-a932-08b2a8842509" />
 
-#System LION APP
-
-<
-
